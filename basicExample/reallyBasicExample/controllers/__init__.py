@@ -1,0 +1,3 @@
+from plataformenurse.controllers.homeController import HomeController
+from plataformenurse.controllers.loginController import LoginController
+from plataformenurse.controllers.practitionerController import PractitionerController
